@@ -37,5 +37,6 @@ git clone https://github.com/yourusername/hash-checker.git
 cd hash-checker
 python hash_checker.py --help
 ```
-License
+## License
+
 This project is licensed under the MIT License.
