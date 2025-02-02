@@ -33,7 +33,7 @@ Output: ✅ Hash matches! File integrity verified.
 Clone the repository and run:
 
 ```sh
-git clone https://github.com/yourusername/hash-checker.git
+git clone https://github.com/rftheisen/hash-checker.git
 cd hash-checker
 python hash_checker.py --help
 ```
